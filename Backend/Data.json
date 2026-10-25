@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aarav",
+    "email": "aarav@example.com",
+    "contact": "9876543210",
+    "password": "Aarav@123"
+  },
+  {
+    "name": "Priya",
+    "email": "priya@example.com",
+    "contact": "9876543211",
+    "password": "Priya@456"
+  },
+  {
+    "name": "Rohan",
+    "email": "rohan@example.com",
+    "contact": "9876543212",
+    "password": "Rohan@789"
+  },
+  {
+    "name": "Ananya",
+    "email": "ananya@example.com",
+    "contact": "9876543213",
+    "password": "Ananya@321"
+  },
+  {
+    "name": "Dev",
+    "email": "dev@example.com",
+    "contact": "9876543214",
+    "password": "Dev@654"
+  },
+  {
+    "name": "Neha",
+    "email": "neha@example.com",
+    "contact": "9876543215",
+    "password": "Neha@987"
+  },
+  {
+    "name": "Karan",
+    "email": "karan@example.com",
+    "contact": "9876543216",
+    "password": "Karan@111"
+  },
+  {
+    "name": "Isha",
+    "email": "isha@example.com",
+    "contact": "9876543217",
+    "password": "Isha@222"
+  },
+  {
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "contact": "9876543218",
+    "password": "Rahul@333"
+  },
+  {
+    "name": "Meera",
+    "email": "meera@example.com",
+    "contact": "9876543219",
+    "password": "Meera@444"
+  }
+]

@@ -1,0 +1,22 @@
+
+# Dependencies
+**/node_modules/
+
+# Environment secrets
+**/.env
+**/.env.*
+
+# Allow example environment files
+!**/.env.example
+
+# Build output
+**/build/
+**/dist/
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
