@@ -2,12 +2,6 @@
 # Dependencies
 **/node_modules/
 
-# Environment secrets
-**/.env
-**/.env.*
-
-# Allow example environment files
-!**/.env.example
 
 # Build output
 **/build/
